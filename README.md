@@ -22,3 +22,5 @@ Menyediakan panduan belajar langkah-demi-langkah langsung di dalam dasbor IDE, m
    DataToko & Kasir: Proyek siap pakai untuk simulasi mesin kasir (Point of Sale/POS). Dilengkapi fitur input barang, kalkulasi harga otomatis, perhitungan diskon, hitung kembalian, dan cetak struk belanja sederhana.Kepegawaian menyatu disini, sistem informasi manajemen sumber daya manusia (SDM). Berfokus pada pengelolaan data karyawan, pencatatan absensi, penentuan jabatan, dan simulasi penghitungan gaji. terdapat Inventory (Manajemen Stok) pergudangan untuk melacak keluar-masuk barang. Mengajarkan logika manajemen database lokal, peringatan stok menipis (low stock alert), dan pembaruan data barang secara berkala.
 
 ZORA IDE terdapat 2 Versi, Yaitu Versi 1 dan Versi 2 (AI Modern) dan terus akan dikembangkan untuk masyarakat di Dunia.
+Lihat Detilnya di : https://youtu.be/sBmz6hP3JEM?si=f28sxh5Z8hI_OPff
+Jangan Lupa Like & Subscribenya ya....
